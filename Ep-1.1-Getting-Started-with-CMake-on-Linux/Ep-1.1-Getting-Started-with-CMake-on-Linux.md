@@ -1,7 +1,7 @@
 # Ep-1.1-Getting Started with CMake on Linux.
 
 I assume all the required tools are install in Linux machine (Ubuntu 224.04) and all the Extension in VS Code.
-#### Now Let's start with our first "Hello CMake" project using CMake.
+### Now Let's start with our first "Hello CMake" project using CMake.
 
 * First create a main.cpp file and write "Hello CMake" program
 ~~~
@@ -79,3 +79,31 @@ Upto now your Hello-CMake project is ready to compile/build and run. Let's under
   mna@DESKTOP-194LI0R:/mnt/d/cmake-tutorial/Ep-1.1-Getting-Started-with-CMake-on-Linux/build$ ./Hello-CMake 
   Hello CMake..!
   ~~~
+
+### Automate with VS Code
+Upto now you have compile/build and run "Hello-CMake" project manually. same process it is very easy automate with VS Code. Let's do it.
+
+Note: To keep images I created one folder name "img".
+
+* First clean the project folder means remove build folder 
+  ~~~
+  mna@DESKTOP-194LI0R:/mnt/d/cmake-tutorial/Ep-1.1-Getting-Started-with-CMake-on-Linux/build$ cd ..
+  mna@DESKTOP-194LI0R:/mnt/d/cmake-tutorial/Ep-1.1-Getting-Started-with-CMake-on-Linux$ ls
+  CMakeLists.txt  Ep-1.1-Getting-Started-with-CMake-on-Linux.md  build  main.cpp
+  mna@DESKTOP-194LI0R:/mnt/d/cmake-tutorial/Ep-1.1-Getting-Started-with-CMake-on-Linux$ rm -rf build
+  mna@DESKTOP-194LI0R:/mnt/d/cmake-tutorial/Ep-1.1-Getting-Started-with-CMake-on-Linux$ ls
+  CMakeLists.txt  Ep-1.1-Getting-Started-with-CMake-on-Linux.md  main.cpp
+  ~~~
+
+* Go to the "Ep-1.1-Getting-Started-with-CMake-on-Linux" folder and press shift + ctrl + p in VSCode, it will open VSCode command prompt and search "cmake configure" see image below.
+  
+  ![cmake:configure](img/cmake-configure.jpg)
+
+* Next select compiler, In my case I choosen "GCC 13.2.0 x86_64-linux-gnu Using compilers: C = /usr/bin/gcc-13, CXX = /usr/bin/g++-13"
+  
+  ![Compiler Selection](img/compiler-selection.jpg)
+
+* After selection of compiler, it will automatically generate build forlder for you with all compiler setting and all. for this case it is automatically fetch ninja-build, In manual case it was Unix Makefile system.
+* After generating of build folder, if you observe bottom plate of VSCode, you will find all sets like Debug//Release config, Compiler, Build and Debug icon
+
+  ![VSCode bottom plate](img/vscode-bottom-plate.jpg)  
