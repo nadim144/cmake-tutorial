@@ -1,0 +1,5 @@
+# ninja log v6
+3	770	7526026956989027	CMakeFiles/Change-Output-Directories.dir/main.cpp.obj	20d65befc7489e10
+774	1916	7526026964689871	D:/cmake-tutorial/Ep-2-Changing-Output-Directories-in-CMake/bin/Windows/64/Debug/Change-Output-Directories.exe	3524d5a1dcf7be92
+25	771	7526027100824696	CMakeFiles/Change-Output-Directories.dir/main.cpp.obj	da3204766b45196f
+771	1874	7526027108322316	D:/cmake-tutorial/Ep-2-Changing-Output-Directories-in-CMake/bin/Windows/64/Release/Change-Output-Directories.exe	f2b11e5fa73e48ae

@@ -2,3 +2,6 @@ Ep-1.1-Getting-Started-with-CMake-on-Linux/build/*
 Ep-1.2-Ep-1.2-Getting-Started-with-CMake-on-Windows/build/.cmake/api/v1/query/client-vscode/query.json
 Ep-1.2-Ep-1.2-Getting-Started-with-CMake-on-Windows/build/.cmake/
 Ep-1.2-Ep-1.2-Getting-Started-with-CMake-on-Windows/build/
+Ep-2-Changing-Output-Directories-in-CMake/bin/
+Ep-2-Changing-Output-Directories-in-CMake/build/.cmake/
+Ep-2-Changing-Output-Directories-in-CMake/build/CMakeFiles/
