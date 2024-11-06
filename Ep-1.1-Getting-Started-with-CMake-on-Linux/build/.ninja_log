@@ -1,6 +1,0 @@
-# ninja log v5
-38	707	1730887547555112600	CMakeFiles/Hello-CMake.dir/main.cpp.o	b103d2d814b0e5a7
-721	926	1730887547791544000	Hello-CMake	c84535a962ae9792
-38	791	1730887609128914900	CMakeFiles/Hello-CMake.dir/main.cpp.o	a3365d0dea5171fc
-802	1056	1730887609386715800	Hello-CMake	9ed9cdabcd849fd9
-27	44	0	clean	a31eedcededa8236
