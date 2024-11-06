@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/mnt/d/cmake-tutorial/Ep-1.1-Getting-Started-with-CMake-on-Linux/build",
+  "command": "/usr/bin/g++-13 -g -o CMakeFiles/Hello-CMake.dir/main.cpp.o -c /mnt/d/cmake-tutorial/Ep-1.1-Getting-Started-with-CMake-on-Linux/main.cpp",
+  "file": "/mnt/d/cmake-tutorial/Ep-1.1-Getting-Started-with-CMake-on-Linux/main.cpp",
+  "output": "CMakeFiles/Hello-CMake.dir/main.cpp.o"
+}
+]
