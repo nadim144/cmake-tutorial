@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/cmake-tutorial/Ep-2-Changing-Output-Directories-in-CMake/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -O3 -DNDEBUG -o CMakeFiles\\Change-Output-Directories.dir\\main.cpp.obj -c D:\\cmake-tutorial\\Ep-2-Changing-Output-Directories-in-CMake\\main.cpp",
+  "file": "D:\\cmake-tutorial\\Ep-2-Changing-Output-Directories-in-CMake\\main.cpp",
+  "output": "CMakeFiles\\Change-Output-Directories.dir\\main.cpp.obj"
+}
+]

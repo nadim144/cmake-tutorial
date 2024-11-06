@@ -53,4 +53,7 @@ Please download following tools and install in your windows machine.
 * Ninja-build: https://ninja-build.org/ or https://github.com/ninja-build/ninja/releases
 * tdm gcc: https://jmeubank.github.io/tdm-gcc/ or https://jmeubank.github.io/tdm-gcc/download/
 
-Windows tutorial - [text](Ep-1.2-Ep-1.2-Getting-Started-with-CMake-on-Windows/Ep-1.2-Ep-1.2-Getting-Started-with-CMake-on-Windows.md)
+Windows tutorial - [teEp-1.2-Ep-1.2-Getting-Started-with-CMake-on-Windowsxt](Ep-1.2-Ep-1.2-Getting-Started-with-CMake-on-Windows/Ep-1.2-Ep-1.2-Getting-Started-with-CMake-on-Windows.md)
+
+## Ep-2-Changing Output Directories in CMake
+Tutorial for changing output directories- [Ep-2-Changing-Output-Directories-in-CMake](Ep-2-Changing-Output-Directories-in-CMake/Ep-2-Changing-Output-Directories-in-CMake.md)
