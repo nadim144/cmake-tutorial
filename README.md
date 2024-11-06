@@ -43,5 +43,14 @@ and below Extension should be install in Visual Studio Code and make sure it is 
 * CMake
 * CMake Tools
 
+Rest tutorial - [Ep-1.1-Getting-Started-with-CMake-on-Linux](Ep-1.1-Getting-Started-with-CMake-on-Linux/Ep-1.1-Getting-Started-with-CMake-on-Linux.md)
 
 ## Ep-1.2-Getting Started with CMake on Windows.
+### Tools required getting started CMake on Windows.
+
+Please download following tools and install in your windows machine.
+* CMake Windows x64 Installer: https://github.com/Kitware/CMake/releases/download/v3.31.0-rc3/cmake-3.31.0-rc3-windows-x86_64.msi
+* Ninja-build: https://ninja-build.org/ or https://github.com/ninja-build/ninja/releases
+* tdm gcc: https://jmeubank.github.io/tdm-gcc/ or https://jmeubank.github.io/tdm-gcc/download/
+
+Windows tutorial - [text](Ep-1.2-Ep-1.2-Getting-Started-with-CMake-on-Windows/Ep-1.2-Ep-1.2-Getting-Started-with-CMake-on-Windows.md)
