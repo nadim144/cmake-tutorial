@@ -5,3 +5,4 @@ Ep-1.2-Ep-1.2-Getting-Started-with-CMake-on-Windows/build/
 Ep-2-Changing-Output-Directories-in-CMake/bin/
 Ep-2-Changing-Output-Directories-in-CMake/build/.cmake/
 Ep-2-Changing-Output-Directories-in-CMake/build/CMakeFiles/
+Ep-3-Create-a-library-and-use-in-our-executable/build/
