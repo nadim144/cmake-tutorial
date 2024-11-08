@@ -59,6 +59,7 @@ Windows tutorial - [teEp-1.2-Ep-1.2-Getting-Started-with-CMake-on-Windowsxt](Ep-
 Tutorial for changing output directories- [Ep-2-Changing-Output-Directories-in-CMake](Ep-2-Changing-Output-Directories-in-CMake/Ep-2-Changing-Output-Directories-in-CMake.md)
 
 ## Ep-3-Create a library and use in our executable
+Here, we wil learn how to create static library and use in executable. 
+
 Tutorial for creating library and use it in our executable- [Tutorial for creating library and use it in our executable](Ep-3-Create-a-library-and-use-in-our-executable/Ep-3-Create-a-library-and-use-in-our-executable.md)
 
-Here, we wil learn how to create static library and use in executable. 
