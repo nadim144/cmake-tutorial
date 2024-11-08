@@ -1,10 +1,10 @@
 
-#ifndef __INPUT_H__
-#define __INPUT_H__
+#ifndef __INPUT_HPP__
+#define __INPUT_HPP__
 
 namespace ConsoleLibrary
 {
     
 } // namespace ConsoleLibrary
 
-#endif //__INPUT_H__
+#endif //__INPUT_HPP__
