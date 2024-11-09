@@ -64,4 +64,7 @@ Here, we wil learn how to create static library and use in executable.
 Tutorial for creating library and use it in our executable- [Tutorial for creating library and use it in our executable](Ep-3-Create-a-library-and-use-in-our-executable/Ep-3-Create-a-library-and-use-in-our-executable.md)
 
 ## Ep-5-Including Sub folder Projects
-In this tutorial, we will learn how to include sub-folder in project. To learn this, I plan it as I will create "ConsoleLib" static library into a separate folder and I will consume this library into executable.  ConsoleLib folder contain "header" and "src" sub folder in it. Please refer image below to understand folder stucture.
+In this tutorial, we will learn how to include sub-folder in project. To learn this, I plan it as I will create "ConsoleLib" static library into a separate folder and I will consume this library into executable.  ConsoleLib folder contain "header" and "src" sub folder in it. Please see image below
+![Including sub-folder in project structure.](Ep-5-Including-Sub-folder-Projects/img/1.jpg)
+
+Please refer link to learn more: [Ep-5-Including-Sub-folder-Projects](Ep-5-Including-Sub-folder-Projects/Ep-5-Including-Sub-folder-Projects.md)
