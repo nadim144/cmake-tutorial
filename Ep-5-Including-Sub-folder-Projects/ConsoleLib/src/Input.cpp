@@ -9,7 +9,7 @@ namespace ConsoleLibrary
     {
         std::string str;
         std::cin >> str;
-        return str;
+        return static_cast<std::string>("Hello ") + str;
     }
 
     std::string prompt(std::string question)
