@@ -68,3 +68,11 @@ In this tutorial, we will learn how to include sub-folder in project. To learn t
 ![Including sub-folder in project structure.](Ep-5-Including-Sub-folder-Projects/img/1.jpg)
 
 Please refer link to learn more: [Ep-5-Including-Sub-folder-Projects](Ep-5-Including-Sub-folder-Projects/Ep-5-Including-Sub-folder-Projects.md)
+
+
+## Ep-5.1-Improvise-Sub-folder-Projects
+In this tutorial, I have created separate folder for exxecutable and library project and and Utilize passing variables from one CMakeLists.txt to another CMakeLists.txt. However CMake script is not very much optimize. I will optimize it probably in next chapter Ep-5.2.
+
+![Ep-5.1-Improvise-Sub-folder-Projects](Ep-5.1-Improvise-Sub-folder-Projects/img/01.jpg)
+
+To read it more please follow the link:- [Ep-5.1-Improvise-Sub-folder-Projects](Ep-5.1-Improvise-Sub-folder-Projects/Ep-5.1-Improvise-Sub-folder-Projects.md)
