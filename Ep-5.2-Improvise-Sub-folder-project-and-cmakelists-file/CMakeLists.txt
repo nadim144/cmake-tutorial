@@ -30,12 +30,14 @@ set(Buildtype ${CMAKE_BUILD_TYPE})
 message("<========= 0.5. Detected Build type (Debug/Release) - ${Buildtype} =========>")
 
 # 0.6. add subdirectory of library
+message("<========= Enter into - consolelib's CMakeList.txt =========>")
 add_subdirectory(consolelib)
-message("<========= 0.6. Added subdirectory - consolelib for library =========>")
+message("<========= Exit from - consolelib's CMakeList.txt =========>")
 
 # 0.8. add subdirectory of executable 
+message("<========= Enter into - consoleexe's CMakeList.txt =========>")
 add_subdirectory(consoleexe)
-message("<========= 0.8. Added subdirectory - consoleexe for executable =========>")
+message("<========= Exit from - consoleexe's CMakeList.txt =========>")
 
 
 # 0.9. target linking with static library
