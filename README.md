@@ -8,7 +8,7 @@ below tools should be install in your Linux machine, In my case I am using WSL-U
 * cmake
 * ninja-build
 
-To install above tool, please open Ubuntu 22.04 terminal or same terminal you can open through VS Code and run following command.
+To install above tool, please open Ubuntu 24.04 terminal (I prefer Ubuntu 24.04 LTS on WSL) or same terminal you can open through VS Code and run following command.
 > $sudo apt install build-essential g++ gdb cmake ninja-build
 
 After installation please verify all the install tool as following
@@ -53,7 +53,7 @@ Please download following tools and install in your windows machine.
 * Ninja-build: https://ninja-build.org/ or https://github.com/ninja-build/ninja/releases
 * tdm gcc: https://jmeubank.github.io/tdm-gcc/ or https://jmeubank.github.io/tdm-gcc/download/
 
-Windows tutorial - [teEp-1.2-Ep-1.2-Getting-Started-with-CMake-on-Windowsxt](Ep-1.2-Ep-1.2-Getting-Started-with-CMake-on-Windows/Ep-1.2-Ep-1.2-Getting-Started-with-CMake-on-Windows.md)
+Windows tutorial - [teEp-1.2-Ep-1.2-Getting-Started-with-CMake-on-Windows](Ep-1.2-Ep-1.2-Getting-Started-with-CMake-on-Windows/Ep-1.2-Ep-1.2-Getting-Started-with-CMake-on-Windows.md)
 
 ## Ep-2-Changing Output Directories in CMake
 Tutorial for changing output directories- [Ep-2-Changing-Output-Directories-in-CMake](Ep-2-Changing-Output-Directories-in-CMake/Ep-2-Changing-Output-Directories-in-CMake.md)

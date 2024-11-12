@@ -2,7 +2,7 @@
 #include "output.hpp"
 #include <iostream>
 
-namespace ConsoleLib
+namespace consolelib
 {
     void ouputString(std::string text)
     {

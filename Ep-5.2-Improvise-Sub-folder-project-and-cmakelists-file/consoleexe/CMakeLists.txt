@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.20.0)
 
-project(${EXECUTABLE_NAME})
+project(${MY_EXECUTABLE_NAME})
 
 # set OSBitness
 set(OBitness 32)
@@ -12,4 +12,4 @@ endif()
 set(OutputDirlib ${PROJECT_SOURCE_DIR}/bin/${CMAKE_SYSTEM_NAME}/${OSBitness}/${CMAKE_BUILD_TYPE})
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${OutputDirlib})
 
-add_executable(${EXECUTABLE_NAME} main.cpp)
+add_executable(${MY_EXECUTABLE_NAME} main.cpp)

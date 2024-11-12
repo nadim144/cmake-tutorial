@@ -6,3 +6,8 @@ Ep-2-Changing-Output-Directories-in-CMake/bin/
 Ep-2-Changing-Output-Directories-in-CMake/build/.cmake/
 Ep-2-Changing-Output-Directories-in-CMake/build/CMakeFiles/
 Ep-3-Create-a-library-and-use-in-our-executable/build/
+Ep-5.1-Improvise-Sub-folder-Projects/build/
+Ep-5.1-Improvise-Sub-folder-Projects/ConsoleExe/bin/
+Ep-5.1-Improvise-Sub-folder-Projects/ConsoleLib/bin/
+Ep-5.2-Improvise-Sub-folder-project-and-cmakelists-file/build/
+Ep-5.2-Improvise-Sub-folder-project-and-cmakelists-file/consoleexe/bin/
