@@ -3,10 +3,10 @@
 
 #include <string>
 
-namespace ConsoleLib
+namespace consolelib
 {
     void ouputString(std::string text);
     
-} // namespace name
+} // namespace consolelib
 
 #endif //__OUTPUT_HPP__

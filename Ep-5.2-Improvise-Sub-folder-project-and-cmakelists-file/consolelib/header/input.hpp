@@ -4,10 +4,10 @@
 #include <string>
 #include <iostream>
 
-namespace ConsoleLib
+namespace consolelib
 {
     std::string inputString();
     
-} // namespace ConsoleLib
+} // namespace consolelib
 
 #endif //__INPUT_HPP__

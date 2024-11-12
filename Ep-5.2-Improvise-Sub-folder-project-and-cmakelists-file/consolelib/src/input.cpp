@@ -2,7 +2,7 @@
 #include "input.hpp"
 #include <iostream>
 
-namespace ConsoleLib
+namespace consolelib
 {
     std::string inputString()
     {

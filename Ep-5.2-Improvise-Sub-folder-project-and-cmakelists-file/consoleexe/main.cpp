@@ -1,9 +1,9 @@
 #include <iostream>
-#include "output.hpp"
+#include "../consolelib/header/output.hpp"
 
 int main()
 {
-    ConsoleLib::ouputString("Hello Nadim");
+    consolelib::ouputString("Hello Nadim");
     std::cout<<"Hello Eiba...!"<<std::endl;
     return 0;
 }
