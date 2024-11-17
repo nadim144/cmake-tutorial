@@ -20,6 +20,6 @@ message("<========= 1.3 Include header directory =========>")
 set(SRC_FILE    src/input.cpp src/output.cpp)
 message("<========= 1.4. Source file - ${SRC_FILE} =========>")
 
-# Create static library on define output path
+# 1.5 Create static library on define output path
 add_library(${MY_LIBRARY_NAME} ${SRC_FILE})
 message("<========= 1.5. Library - ${MY_LIBRARY_NAME} will create at - ${OutputDirlib} =========>")

@@ -34,12 +34,12 @@ message("<========= Enter into - consolelib's CMakeList.txt =========>")
 add_subdirectory(consolelib)
 message("<========= Exit from - consolelib's CMakeList.txt =========>")
 
-# 0.8. add subdirectory of executable 
+# 0.7. add subdirectory of executable 
 message("<========= Enter into - consoleexe's CMakeList.txt =========>")
 add_subdirectory(consoleexe)
 message("<========= Exit from - consoleexe's CMakeList.txt =========>")
 
 
-# 0.9. target linking with static library
+# 0.8. target linking with static library
 target_link_libraries(${MY_EXECUTABLE_NAME} ${MY_LIBRARY_NAME})
 message("<========= 0.9. target (executable) linked with library =========>")
